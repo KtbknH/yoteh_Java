@@ -1,0 +1,8 @@
+*.sh
+*.mvn
+*.log
+target/
+.idea/
+.vscode/
+.DS_Store
+.angular/
